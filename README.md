@@ -1,17 +1,26 @@
-Hi there 👋, I'm Niranj!
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile" target="_blank">
-<img align="right" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="_blank">
-<img align="right" src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
-</a>
+<h1 align="center">Hi there 👋, I'm Niranj</h1>
+<h3 align="center">Full-Stack Developer | AI Explorer | DevOps Learner | Tech Evangelist</h3>
 
-I'm a passionate and curious tech enthusiast with a journey that has taken me through a diverse range of exciting fields. From building dynamic web applications to uncovering insights from data, and from exploring the frontiers of Artificial Intelligence to automating infrastructure with DevOps, I'm driven by the challenge of learning and creating.
+<p align="center">
+  <a href="mailto:niranjcn024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/niranjcn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/niranjcn" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-🚀 My Tech Stack
-Here are some of the technologies and tools I'm proficient in:
+---
 
+### 👨‍💻 About Me
 
+I'm a **Computer Science undergrad** and passionate tech enthusiast who thrives on building impactful systems. I’ve explored and worked across:
+
+- 🌐 Full-Stack Web Development 
+- 🧠 Artificial Intelligence & Computer Vision 
+- ⚙️ DevOps & Infrastructure Automation 
+- 📊 Data Science & ML 
+
+I love blending creativity with code, leading tech initiatives, and always pushing the boundaries of what I can build or automate.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -23,8 +32,6 @@ Here are some of the technologies and tools I'm proficient in:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
 ### 🧱 Frameworks & Libraries
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,8 +39,6 @@ Here are some of the technologies and tools I'm proficient in:
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
 
 ### 📊 Data Science & AI/ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -45,23 +50,38 @@ Here are some of the technologies and tools I'm proficient in:
 ![Roboflow](https://img.shields.io/badge/Roboflow-101010?style=for-the-badge&logo=roboflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
----
-
-### ☁️ Cloud, DevOps & Tools
+### ☁️ DevOps, Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-📫 How to reach me:
-Email: niranjcn024@gmail.com
+---
 
-LinkedIn: www.linkedin.com/in/niranjcn
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjcn&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
+  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email**: [niranjcn024@gmail.com](mailto:niranjcn024@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/niranjcn](https://linkedin.com/in/niranjcn)  
+- 🌐 **GitHub**: [github.com/niranjcn](https://github.com/niranjcn)
+
+---
+
+> 💡 *"Keep building, keep breaking, keep learning."*
