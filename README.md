@@ -80,8 +80,6 @@ I love blending creativity with code, leading tech initiatives, and always pushi
 
 - 📧 **Email**: [niranjcn024@gmail.com](mailto:niranjcn024@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/niranjcn](https://linkedin.com/in/niranjcn)  
-- 🌐 **GitHub**: [github.com/niranjcn](https://github.com/niranjcn)
-
 ---
 
 > 💡 *"Keep building, keep breaking, keep learning."*
