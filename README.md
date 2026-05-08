@@ -252,44 +252,6 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# ⚡ CORE STACK
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-> The tools I reach for first. Battle-tested in production.
-
-<div align="center">
-
-| Layer | Stack |
-|---|---|
-| **Frontend** | React · Tailwind CSS · Vite |
-| **Backend** | FastAPI · Node.js · Express |
-| **Database** | MongoDB · PostgreSQL · MySQL |
-| **DevOps** | Docker · Linux · Git · GitHub Actions |
-| **AI / ML** | YOLOv8 · XGBoost · scikit-learn · OpenCV |
-| **Security** | JWT · CSRF · RBAC · OAuth2 |
-| **Blockchain** | Hyperledger Fabric · Smart Contracts |
-
-</div>
-
----
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 🔭 CURRENTLY EXPLORING
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-```python
-currently_learning = {
-    "cloud":       ["AWS (EC2, S3, Lambda)", "GCP basics"],
-    "devops":      ["Kubernetes", "Terraform", "Prometheus + Grafana"],
-    "ai_ml":       ["LLM fine-tuning", "LangChain", "RAG pipelines", "Hugging Face"],
-    "backend":     ["gRPC", "message queues (RabbitMQ / Kafka)"],
-    "systems":     ["Distributed systems design", "System design patterns"],
-    "goal":        "Bridge the gap between ML research and production-grade SRE"
-}
-```
-
----
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 📊 GITHUB STATS
