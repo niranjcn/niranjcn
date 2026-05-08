@@ -252,28 +252,80 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 ---
 
-## `$ cat github_stats.sh && bash github_stats.sh`
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ⚡ CORE STACK
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> The tools I reach for first. Battle-tested in production.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niranjcn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=8" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=8&langs_count=8" height="165"/>
+| Layer | Stack |
+|---|---|
+| **Frontend** | React · Tailwind CSS · Vite |
+| **Backend** | FastAPI · Node.js · Express |
+| **Database** | MongoDB · PostgreSQL · MySQL |
+| **DevOps** | Docker · Linux · Git · GitHub Actions |
+| **AI / ML** | YOLOv8 · XGBoost · scikit-learn · OpenCV |
+| **Security** | JWT · CSRF · RBAC · OAuth2 |
+| **Blockchain** | Hyperledger Fabric · Smart Contracts |
+
+</div>
+
+---
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🔭 CURRENTLY EXPLORING
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```python
+currently_learning = {
+    "cloud":       ["AWS (EC2, S3, Lambda)", "GCP basics"],
+    "devops":      ["Kubernetes", "Terraform", "Prometheus + Grafana"],
+    "ai_ml":       ["LLM fine-tuning", "LangChain", "RAG pipelines", "Hugging Face"],
+    "backend":     ["gRPC", "message queues (RabbitMQ / Kafka)"],
+    "systems":     ["Distributed systems design", "System design patterns"],
+    "goal":        "Bridge the gap between ML research and production-grade SRE"
+}
+```
+
+---
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 📊 GITHUB STATS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=niranjcn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=8&langs_count=10&hide=jupyter%20notebook"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjcn&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" />
+<img width="70%" src="https://streak-stats.demolab.com?user=niranjcn&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e&border_radius=8"/>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff&hide_border=true&radius=8"/>
 
 </div>
 
 ---
 
-## `$ cat profile_views.txt`
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🤝 LET'S CONNECT
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=niranjcn&color=00d9ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/niranjcn?label=Followers&style=flat-square&color=00d9ff&logo=github)](https://github.com/niranjcn)
+[![Email](https://img.shields.io/badge/Gmail-niranjcn000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjcn000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjcn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjcn)
+[![GitHub](https://img.shields.io/badge/GitHub-niranjcn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjcn)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=niranjcn&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/niranjcn?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&logoColor=white)](https://github.com/niranjcn)
 
 </div>
 
@@ -282,17 +334,17 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Open to roles in: Software Engineering · DevOps · SRE    │
-│                      AI/ML Engineering                      │
-│                                                             │
-│   I build things that go to production.                     │
-│   Not just to GitHub.                                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     OPEN TO ROLES IN                                             ║
+║     Software Engineering  ·  DevOps  ·  SRE  ·  AI/ML           ║
+║                                                                  ║
+║     I don't just push to GitHub.                                 ║
+║     I push to production.                                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**[niranjcn000@gmail.com](mailto:niranjcn000@gmail.com) · [linkedin.com/in/niranjcn](https://linkedin.com/in/niranjcn)**
+*"Keep building. Keep breaking. Keep learning."*
 
 </div>
