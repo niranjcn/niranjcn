@@ -269,7 +269,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff&hide_border=true&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
 
 </div>
 
