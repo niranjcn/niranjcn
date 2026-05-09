@@ -265,7 +265,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=niranjcn&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e&border_radius=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjcn&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="160em"/>
 
 <br/><br/>
 
