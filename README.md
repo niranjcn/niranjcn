@@ -15,7 +15,7 @@
 
 *Building systems that scale. Automating things that shouldn't be manual. Training models that actually work.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%7C+FastAPI+%2B+React+%2B+Docker;DevOps+%26+SRE+%7C+Infrastructure+Automation;AI%2FML+Engineer+%7C+YOLOv8+%2B+XGBoost+%2B+Blockchain;Building+real+systems+for+real+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer;DevOps+%26+SRE+%7C+Infrastructure+Automation;AI%2FML+Automation+Engineer;Building+real+systems+for+real+problems.)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/niranjcn000%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niranjcn000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/niranjcn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjcn)
-[![GitHub](https://img.shields.io/badge/niranjcn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niranjcn)
+<p>
+<a href="https://linkedin.com/in/niranjcn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;<a href="https://github.com/niranjcn"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>&nbsp;<a href="mailto:niranjcn024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -51,81 +51,7 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 
 ---
 
-## `$ ls -la experience/`
 
-<details>
-<summary><b>📡 DevOps Intern — Kerala Vision Broadband Limited</b> &nbsp;<code>May 2025 – June 2025</code></summary>
-
-<br/>
-
-> Multi-NOC production infrastructure. Real scale. Real problems.
-
-- Built **DNS Management System** and **Network Backup System** from scratch using React, FastAPI, Docker, and MongoDB
-- Implemented **RBAC + JWT auth** with `.env`-hardened configuration across environments
-- Automated DNS redirection via **cron scheduling** → reduced manual rule handling by **80%**
-- Integrated **Google Drive API** for cloud backup and **WhatsApp API** for real-time infrastructure alerts
-- Wrote Python scripts using **Netmiko** for multi-site device backup with version tracking
-
-</details>
-
-<details>
-<summary><b>💼 Freelance Full-Stack Developer</b> &nbsp;<code>2024 – Present</code></summary>
-
-<br/>
-
-> Client-grade production systems. Not side projects — real deployments.
-
-| Project | Stack | Highlight |
-|---|---|---|
-| [step4eco.uk](https://step4eco.uk) | React, Tailwind | UK Gov ECO4 scheme provider website |
-| Distribution Management System | React, FastAPI, MySQL, Docker | JWT + CSRF auth, automated backups |
-| Exam Hall Seat Arrangement System | Full-stack | St. Thomas College |
-| RIO Agreements Library | Filterable UI | [kccl.tv](https://kccl.tv) |
-
-</details>
-
----
-
-## `$ ls -la projects/`
-
-<details>
-<summary><b>🔗 TRACIENT — Blockchain Income Traceability</b> &nbsp;<code>2025</code> &nbsp;🏆 Best Paper RAET'26</summary>
-
-<br/>
-
-> Welfare distribution fraud detection for India's informal sector. Awarded Best Paper at RAET'26 National Conference.
-
-```
-Stack: React · FastAPI · Hyperledger Fabric · Python · MongoDB · Docker
-```
-
-- **APL/BPL Classifier** → Random Forest, **94% accuracy** on worker profiles
-- **Income Anomaly Detector** → XGBoost, **98.52% accuracy**, detects **12 fraud patterns** across **30,000 worker profiles**
-- UPI payment system with **QR code generation**
-- Full security stack: JWT + CSRF + RBAC + automated blockchain sync
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/niranjcn)
-
-</details>
-
-<details>
-<summary><b>🚉 Railway Platform Monitoring System</b> &nbsp;<code>Nov 2024 – Mar 2025</code> &nbsp;📜 Presented RAET'25</summary>
-
-<br/>
-
-```
-Stack: Python · OpenCV · YOLOv8 · Roboflow
-```
-
-- Real-time pedestrian risk detection on railway platforms
-- Custom dataset trained via Roboflow + YOLOv8
-- Presented at RAET'25 National Conference
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/niranjcn)
-
-</details>
-
----
 
 ## `$ cat tech_stack.json`
 
@@ -140,21 +66,19 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
----
+
+
+
 
 ### 〔 Frontend 〕
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
+
 
 ### 〔 Backend & APIs 〕
 
@@ -165,7 +89,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
+
 
 ### 〔 DevOps · SRE · Infrastructure 〕
 
@@ -174,13 +98,12 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netmiko](https://img.shields.io/badge/Netmiko-4EAA25?style=for-the-badge&logo=python&logoColor=white)
 ![Cron](https://img.shields.io/badge/Cron_Jobs-4A4A55?style=for-the-badge&logo=clockify&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
----
+
 
 ### 〔 Databases 〕
 
@@ -190,7 +113,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+
 
 ### 〔 Security 〕
 
@@ -200,7 +123,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![Hashing](https://img.shields.io/badge/Hashing_%26_Encryption-2C3E50?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
----
+
 
 ### 〔 AI · ML · Computer Vision 〕
 
@@ -214,17 +137,14 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C5E8A?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 ### 〔 Blockchain 〕
 
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white)
-![QR / UPI](https://img.shields.io/badge/UPI_%26_QR_Payments-1A1A2E?style=for-the-badge&logo=googlepay&logoColor=white)
 
----
 
 ### 〔 Tools & Platforms 〕
 
@@ -237,7 +157,7 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 </div>
 
----
+
 
 ## `$ cat achievements.log`
 
