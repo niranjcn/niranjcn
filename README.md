@@ -259,9 +259,9 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjcn)
+![GitHub Stats](https://github-readme-stats-five-brown-25.vercel.app/api?username=niranjcn&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=8&langs_count=10&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats-five-brown-25.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=radical&hide_border=true)
 
 <br/><br/>
 
