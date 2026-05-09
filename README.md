@@ -1,19 +1,6 @@
 <div align="center">
-
-```
-███╗   ██╗██╗██████╗  █████╗ ███╗   ██╗      ██╗     ██████╗    ███╗   ██╗
-████╗  ██║██║██╔══██╗██╔══██╗████╗  ██║      ██║    ██╔════╝    ████╗  ██║
-██╔██╗ ██║██║██████╔╝███████║██╔██╗ ██║      ██║    ██║         ██╔██╗ ██║
-██║╚██╗██║██║██╔══██╗██╔══██║██║╚██╗██║ ██   ██║    ██║         ██║╚██╗██║
-██║ ╚████║██║██║  ██║██║  ██║██║ ╚████║ ╚█████╔╝    ╚██████╗    ██║ ╚████║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚════╝      ╚═════╝    ╚═╝  ╚═══╝
-```
-
-### `> whoami`
-
-**Software Engineer · DevOps · SRE · AI/ML Engineer**
-
-*Building systems that scale. Automating things that shouldn't be manual. Training models that actually work.*
+<!-- Dynamic Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Niranj%20C%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20ML%20Enthusiast&descAlignY=60&descAlign=50&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer;DevOps+%26+SRE+%7C+Infrastructure+Automation;AI%2FML+Automation+Engineer;Building+real+systems+for+real+problems.)](https://git.io/typing-svg)
 
@@ -23,37 +10,52 @@
 
 <div align="center">
 
-<p>
-<a href="https://linkedin.com/in/niranjcn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;<a href="https://github.com/niranjcn"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>&nbsp;<a href="mailto:niranjcn024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/niranjcn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/niranjcn">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+  </a>
+  <a href="mailto:niranjcn024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=niranjcn&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/github/followers/niranjcn?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+
 
 </div>
 
 ---
-
-## `$ cat about.txt`
-
-```yaml
-name       : Niranj C N
-degree     : B.Tech Computer Science @ St. Thomas College of Engineering and Technology
-location   : Kannur, Kerala, India
-cgpa       : 8.00 / 10
-status     : Actively seeking Software Engineer / DevOps / SRE / AI-ML roles
-
-roles:
-  - Software Engineer       → Full-stack systems, REST APIs, production deployments
-  - DevOps / SRE            → Docker, CI/CD, RBAC, automated backups, multi-NOC infra
-  - AI / ML Engineer        → YOLOv8, XGBoost, Random Forest, computer vision, blockchain ML
-  - Tech Lead               → Built fest websites serving 500+ users, led Vblaze Tech Club
-
-philosophy : "Keep building. Keep breaking. Keep learning."
+ 
+## 🧠 About Me
+ 
+```python
+class Niranj:
+    name       = "Niranj C N"
+    role       = "Software Engineer — Backend Focus"
+    location   = "Kerala, India 🇮🇳"
+    
+    passion    = ["Distributed Systems", "API Design", "ML in Production"]
+    currently  = "Building scalable backends & exploring AI-powered systems"
+    motto      = "Write code that scales, design systems that last."
+ 
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something impactful 🚀")
 ```
-
+ 
+I'm a software engineer who thrives at the intersection of **clean architecture** and **real-world impact**. I design robust backend systems with FastAPI, ship ML models to production, and architect solutions that handle scale. From blockchain to computer vision — I build things that matter.
+ 
 ---
 
 
-
-## `$ cat tech_stack.json`
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -157,23 +159,65 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 
 </div>
 
-
-
-## `$ cat achievements.log`
-
-```
-[2026] 🏆  Best Paper Award  →  TRACIENT @ RAET'26 National Conference
-[2025] 📡  Production Deployment  →  Multi-NOC DNS & Backup System @ Kerala Vision Broadband
-[2025] 📜  Conference Presentation  →  Railway Platform Monitoring @ RAET'25
-[2024] 🌐  Production Website  →  step4eco.uk (UK Government ECO4 scheme provider)
-[2024] 🎓  Young Innovators Program  →  Selected by Government of Kerala (YIP)
-[2024] 💻  Tech Lead  →  IGNITE & XTASY fest websites · 500+ participants · Vblaze Tech Club
-```
-
-
-
+## 🚀 Featured Projects
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🔗 TRACIENT
+> **Blockchain × Machine Learning**
+ 
+A decentralized asset tracking platform that fuses **blockchain immutability** with **ML-powered anomaly detection**. Designed for high-integrity supply chain transparency.
+ 
+**Stack:**
+`Python` `FastAPI` `Blockchain` `ML` `MongoDB` `Docker`
+ 
+**Impact:**
+- ✅ End-to-end tamper-proof audit trails
+- ✅ Real-time anomaly alerts via ML pipeline
+- ✅ Modular microservice architecture
+- 🏆 Presented at RAET'26 — **Best Paper Award**
+</td>
+<td width="50%" valign="top">
+### 🚆 Railway Monitoring System
+> **Computer Vision · Real-Time Safety**
+ 
+An intelligent railway track surveillance system using **YOLOv8** for real-time obstacle detection and hazard classification — built to reduce accidents and automate monitoring.
+ 
+**Stack:**
+`Python` `YOLOv8` `OpenCV` `FastAPI` `React` `AWS`
+ 
+**Impact:**
+- ✅ Real-time object detection at video-stream level
+- ✅ Alert pipeline for detected hazards
+- ✅ Dashboard with live feed & detection logs
+- 📍 Deployable on edge devices
+</td>
+</tr>
+</table>
 
 ---
+ 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niranjcn&theme=tokyonight&no-frame=true&margin-w=10&column=8" />
+</div>
+
+<br/>
+
+| Year | 🏆 Achievement | 🚀 Impact |
+|------|--------------|----------|
+| 2026 | Best Paper Award | TRACIENT @ RAET'26 National Conference |
+| 2025 | Production Deployment | Multi-NOC DNS & Backup System @ Kerala Vision Broadband |
+| 2025 | Conference Presentation | Railway Platform Monitoring @ RAET'25 |
+| 2024 | Production Website | step4eco.uk (UK ECO4 Scheme Provider) |
+| 2024 | Young Innovators Program | Selected by Govt. of Kerala |
+| 2024 | Tech Lead | Built fest platforms for 500+ users |
+
+ 
+---
+
 # 📊 GITHUB STATS
 ---
 
@@ -186,57 +230,56 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjcn&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="160em"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjcn&theme=tokyonight&border_radius=12&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
 
-<br/>
-<!-- Trophy stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=niranjcn&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niranjcn/niranjcn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niranjcn/niranjcn/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/niranjcn/niranjcn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br/>
+
 
 </div>
 
 ---
 
 
-# 🤝 LET'S CONNECT
----
-
+## 🤝 Connect With Me
+ 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-niranjcn000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjcn000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjcn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjcn)
-[![GitHub](https://img.shields.io/badge/GitHub-niranjcn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjcn)
-
-<br/>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=niranjcn&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/niranjcn?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&logoColor=white)](https://github.com/niranjcn)
-
+<a href="https://www.linkedin.com/in/niranjcn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Niranj%20C%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:niranjcn024@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/niranjcn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-@niranjcn-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+ 
+> 💼 **Open to:** Backend Engineering roles, System Design collaborations, ML infrastructure projects
+ 
 </div>
 
----
-
+ 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     OPEN TO ROLES IN                                             ║
-║     Software Engineering  ·  DevOps  ·  SRE  ·  AI/ML           ║
-║                                                                  ║
-║     I don't just push to GitHub.                                 ║
-║     I push to production.                                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-*"Keep building. Keep breaking. Keep learning."*
-
+<!-- Developer Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<br/><br/>
+ 
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<sub>⚡ Crafted with precision by <strong>Niranj C N</strong> — because details matter.</sub>
+ 
 </div>
+ 
