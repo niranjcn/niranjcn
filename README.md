@@ -259,8 +259,9 @@ Stack: Python · OpenCV · YOLOv8 · Roboflow
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=niranjcn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=8&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=8&langs_count=10&hide=jupyter%20notebook"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjcn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=8&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=8&langs_count=10&hide=jupyter%20notebook)
 
 <br/><br/>
 
