@@ -170,12 +170,13 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 [2024] 💻  Tech Lead  →  IGNITE & XTASY fest websites · 500+ participants · Vblaze Tech Club
 ```
 
+
+
+
+---
+# 📊 GITHUB STATS
 ---
 
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 📊 GITHUB STATS
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
@@ -191,13 +192,19 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
 
+<br/>
+<!-- Trophy stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=niranjcn&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br/>
+
 </div>
 
 ---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # 🤝 LET'S CONNECT
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 <div align="center">
 
@@ -206,6 +213,8 @@ philosophy : "Keep building. Keep breaking. Keep learning."
 [![GitHub](https://img.shields.io/badge/GitHub-niranjcn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjcn)
 
 <br/>
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=niranjcn&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/niranjcn?label=FOLLOWERS&style=for-the-badge&color=00d9ff&logo=github&logoColor=white)](https://github.com/niranjcn)
