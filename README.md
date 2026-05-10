@@ -39,7 +39,7 @@
 ```python
 class Niranj:
     name       = "Niranj C N"
-    role       = "Software Engineer — Backend Focus"
+    role       = "Software Engineer"
     location   = "Kerala, India 🇮🇳"
     
     passion    = ["Distributed Systems", "API Design", "ML in Production"]
