@@ -213,7 +213,7 @@ An intelligent railway track surveillance system using **YOLOv8** for real-time 
 | 2025 | Conference Presentation | Railway Platform Monitoring @ RAET'25 |
 | 2024 | Production Website | step4eco.uk (UK ECO4 Scheme Provider) |
 | 2024 | Young Innovators Program | Selected by Govt. of Kerala |
-| 2024 | Tech Lead | Built fest platforms for 500+ users |
+| 2024 | Tech Lead | Built Techno-Cultural fest platforms for 500+ users |
 
  
 ---
