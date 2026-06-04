@@ -201,7 +201,7 @@ An intelligent railway track surveillance system using **YOLOv8** for real-time 
 ## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niranjcn&theme=tokyonight&no-frame=true&margin-w=10&column=8" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=niranjcn&theme=tokyonight&no-frame=true&margin-w=10&column=8" />
 </div>
 
 <br/>
