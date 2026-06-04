@@ -228,10 +228,10 @@ An intelligent railway track surveillance system using **YOLOv8** for real-time 
 
 ![Top Languages](https://github-readme-stats-five-brown-25.vercel.app/api/top-langs/?username=niranjcn&layout=compact&theme=radical&hide_border=true)
 
-<br/><br/>
+[<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjcn&theme=tokyonight&border_radius=12&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
-<br/><br/>
+<br/><br/>](https://github-readme-streak-stats-eight.vercel.app?user=niranjcn&theme=tokyonight&border_radius=12&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjcn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF"/>
 
